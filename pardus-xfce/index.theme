@@ -1,8 +1,8 @@
 [Icon Theme]
-Name=Pardus
-Name[tr]=Pardus
-Comment=Icon theme for Pardus.
-Comment[tr]=Pardus için simge teması.
+Name=Pardus Xfce
+Name[tr]=Pardus Xfce
+Comment=Icon theme for Pardus Xfce.
+Comment[tr]=Pardus Xfce için simge teması.
 Inherits=Adwaita,Tango
 
 # List all directories
