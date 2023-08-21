@@ -1,3 +1,21 @@
+pardus-xfce-icon-theme (3.1.0) unstable; urgency=medium
+
+  [ Yusuf Düzgün ]
+  * fixed file manager sidebar recent icon
+  * fixed dark all-application categories icon
+  * update icons for pardus23
+  * add application-pardus
+  * resize apps icons
+  * add new pardus ldm greeter settings icon
+  * fix pardus pm icons
+  * fix some opacity!
+  * add new pardus update icons
+  * update audio icons
+  * update icons
+  * make pardus icons great again!
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Mon, 21 Aug 2023 12:26:44 +0300
+
 pardus-xfce-icon-theme (3.0.0) unstable; urgency=medium
 
   * Change name to pardus-xfce-icon-theme
