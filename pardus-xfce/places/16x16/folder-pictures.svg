@@ -1,21 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#2E3436;}
-	.st1{fill:none;stroke:#2E3436;stroke-width:1.1391;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#2E3436;stroke-width:1.2;stroke-miterlimit:10;}
-	.st3{fill:none;stroke:#2E3436;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st4{fill:none;stroke:#2E3436;stroke-width:1.1416;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st5{fill:none;stroke:#2E3436;stroke-width:1.1391;stroke-miterlimit:10;}
-	.st6{fill:none;stroke:#2E3436;stroke-width:1.1361;stroke-miterlimit:10;}
-</style>
-<path class="st0" d="M10.5,1.8h-5C4,1.8,2.7,3.1,2.7,4.6v6.8c0,1.5,1.2,2.8,2.8,2.8h5c1.5,0,2.8-1.2,2.8-2.8V4.6
-	C13.3,3.1,12,1.8,10.5,1.8z M5.5,3h5c0.9,0,1.6,0.7,1.6,1.6V6L9.2,8.9C8.8,9.4,8.1,9.4,7.5,9.1L7.3,8.9c-0.8-0.5-1.9-0.5-2.7,0
-	L3.9,9.3V4.6C3.9,3.7,4.6,3,5.5,3z M10.5,13h-5c-0.9,0-1.6-0.7-1.6-1.6v-0.7l1.3-0.8c0.4-0.3,1-0.3,1.5,0l0.3,0.2
-	c1,0.6,2.3,0.5,3.1-0.4l2.1-2.1v3.8C12.1,12.3,11.4,13,10.5,13z"/>
-<g>
-	<circle class="st0" cx="6.1" cy="5.1" r="1.5"/>
-</g>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12.6667 2H3.33333C2.59695 2 2 2.59695 2 3.33333V12.6667C2 13.403 2.59695 14 3.33333 14H12.6667C13.403 14 14 13.403 14 12.6667V3.33333C14 2.59695 13.403 2 12.6667 2Z" stroke="black" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6.00002 7.33341C6.7364 7.33341 7.33335 6.73646 7.33335 6.00008C7.33335 5.2637 6.7364 4.66675 6.00002 4.66675C5.26364 4.66675 4.66669 5.2637 4.66669 6.00008C4.66669 6.73646 5.26364 7.33341 6.00002 7.33341Z" stroke="black" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14 9.99996L11.9427 7.94263C11.6926 7.69267 11.3536 7.55225 11 7.55225C10.6464 7.55225 10.3074 7.69267 10.0573 7.94263L4 14" stroke="black" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

@@ -1,0 +1,16 @@
+[Icon Theme]
+Name=Pardus Xfce Gray
+Name[tr]=Pardus Xfce Gri
+Comment=Icon theme for Pardus Xfce.
+Comment[tr]=Pardus Xfce için simge teması.
+Inherits=pardus-xfce
+
+# List all directories
+Directories=places
+
+[places]
+Context=Places
+Size=200
+MinSize=16
+MaxSize=512
+Type=Scalable

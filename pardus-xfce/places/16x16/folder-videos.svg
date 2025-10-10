@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#2E3436;}
-	.st1{fill:none;stroke:#2E3436;stroke-width:1.1391;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#2E3436;stroke-width:1.2;stroke-miterlimit:10;}
-	.st3{fill:none;stroke:#2E3436;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st4{fill:none;stroke:#2E3436;stroke-width:1.1416;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st5{fill:none;stroke:#2E3436;stroke-width:1.1391;stroke-miterlimit:10;}
-	.st6{fill:none;stroke:#2E3436;stroke-width:1.1361;stroke-miterlimit:10;}
-</style>
-<path class="st0" d="M12,5.1l-1.2,0.7V5.7c0-1.2-1-2.2-2.2-2.2H4.3c-1.2,0-2.2,1-2.2,2.2v4.5c0,1.2,1,2.2,2.2,2.2h4.3
-	c1.2,0,2.2-1,2.2-2.2v-0.1l1.2,0.7c0.6,0.3,1.3-0.1,1.3-0.8V5.9C13.4,5.2,12.6,4.8,12,5.1z M9.7,10.3c0,0.6-0.5,1.1-1.1,1.1H4.3
-	c-0.6,0-1.1-0.5-1.1-1.1V5.7c0-0.6,0.5-1.1,1.1-1.1h4.3c0.6,0,1.1,0.5,1.1,1.1V10.3z"/>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12.6667 2H3.33333C2.59695 2 2 2.59695 2 3.33333V12.6667C2 13.403 2.59695 14 3.33333 14H12.6667C13.403 14 14 13.403 14 12.6667V3.33333C14 2.59695 13.403 2 12.6667 2Z" stroke="black" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6.00001 6.00193C5.99965 5.88362 6.03078 5.76734 6.09021 5.66504C6.14964 5.56274 6.23523 5.4781 6.33818 5.4198C6.44113 5.3615 6.55774 5.33165 6.67604 5.33332C6.79434 5.33498 6.91007 5.3681 7.01134 5.42926L10.3427 7.42726C10.4418 7.48637 10.524 7.57023 10.581 7.67061C10.638 7.771 10.668 7.88448 10.668 7.99993C10.668 8.11539 10.638 8.22886 10.581 8.32925C10.524 8.42963 10.4418 8.51349 10.3427 8.5726L7.01134 10.5706C6.91002 10.6318 6.79423 10.6649 6.67587 10.6665C6.55752 10.6682 6.44086 10.6383 6.33789 10.5799C6.23491 10.5215 6.14934 10.4368 6.08996 10.3344C6.03058 10.232 5.99953 10.1156 6.00001 9.99726V6.00193Z" stroke="black" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

@@ -1,159 +1,56 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   id="Layer_1"
-   viewBox="0 0 64 64.000000000000909"
-   version="1.1"
-   sodipodi:docname="pardus-mycomputer.svg"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview13"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="10.595553"
-     inkscape:cx="33.882138"
-     inkscape:cy="34.023707"
-     inkscape:window-width="1920"
-     inkscape:window-height="1127"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1" />
-  <defs
-     id="defs1">
-    <style
-       id="style1">.cls-1{fill:#9ca4a4;}.cls-2{fill:#aaacad;}.cls-3{fill:#d3d6d9;}.cls-4{fill:#2a6bb2;}.cls-5{fill:#2878ce;}.cls-6{fill:#393944;}.cls-7{fill:#4b4c58;}.cls-8{isolation:isolate;opacity:.200000002980232;}</style>
-  </defs>
-  <g
-     id="g1"
-     transform="matrix(1.3284476,0,0,1.3284476,-10.510323,-10.510323)">
-    <g
-       id="g13"
-       transform="translate(5.3310854,-31.85)">
-      <g
-         class="st31"
-         id="g140"
-         style="opacity:0.3;enable-background:new"
-         transform="translate(2.2378293,125.7)">
-        <path
-           class="st10"
-           d="m 11.8,-52.6 c 0.2,0.1 0.4,0.1 0.6,0.1 h 23.9 v 0 c 3.3,-0.6 5.7,-3.4 5.7,-6.7 V -79 c 0,-3.7 -3,-6.7 -6.7,-6.7 H 12.8 c -3.7,0 -6.7,3 -6.7,6.7 v 19.8 c 0.1,3.3 2.4,6.1 5.7,6.6 z"
-           id="path139"
-           style="fill:#ffffff" />
-        <path
-           class="st10"
-           d="m 47.8,-43 v 0 c 0,-0.3 -0.1,-0.6 -0.2,-0.9 l -0.1,-0.2 h 0.6 l -0.7,-2.3 c -1,-2.7 -4.8,-4.6 -9.1,-4.6 H 10.7 c -4.7,0 -8,1.8 -9.2,5 v 0.1 0 c 0,0.1 -0.1,0.1 -0.1,0.2 L 0.9,-44 c -0.3,1.3 -0.1,2.5 0.5,3.4 0.2,0.4 0.6,0.7 1,1 0.8,0.9 1.9,1.5 3.2,1.6 h 37.9 v 0 c 2.1,-0.2 3.7,-1.7 4.2,-3.8 0,-0.1 0.1,-0.6 0.1,-1.2 0,0.1 0,0 0,0 z"
-           id="path140"
-           style="fill:#ffffff" />
-      </g>
-      <g
-         id="g155"
-         transform="translate(2.2378293,125.7)">
-        <path
-           class="st20"
-           d="M 35.5,-84.3 H 12.9 c -2.9,0 -5.3,2.4 -5.3,5.3 v 19.8 c 0,2.7 1.9,4.9 4.6,5.2 0.2,0 0.3,0 0.4,0.1 0.1,0 0.3,0 0.3,0 h 22.6 c 0.3,0 0.5,0 0.8,-0.1 2.7,-0.4 4.6,-2.6 4.6,-5.2 V -79 c -0.1,-2.9 -2.5,-5.3 -5.4,-5.3 z"
-           id="path141"
-           style="fill:#edefef" />
-        <path
-           class="st2"
-           d="M 35.5,-53 H 12.9 c -0.2,0 -0.3,0 -0.4,0 -0.2,0 -0.3,0 -0.4,-0.1 -3.1,-0.4 -5.3,-3 -5.3,-6.1 V -79 c 0,-3.4 2.7,-6.2 6.2,-6.2 h 22.6 c 3.4,0 6.2,2.7 6.2,6.2 v 19.8 c 0,3.1 -2.2,5.7 -5.3,6.2 -0.4,0 -0.7,0 -1,0 z M 12.9,-83.4 c -2.4,0 -4.4,2 -4.4,4.4 v 19.8 c 0,2.2 1.5,4 3.8,4.4 0.1,0 0.3,0 0.3,0.1 0.1,0 0.2,0 0.3,0 h 22.6 c 0.2,0 0.4,0 0.7,-0.1 2.1,-0.3 3.8,-2.1 3.8,-4.4 V -79 c 0,-2.4 -2,-4.4 -4.4,-4.4 z"
-           id="path142"
-           style="fill:#2f3536" />
-        <path
-           class="st20"
-           d="m 12.9,-83.4 c -2.4,0 -4.4,2 -4.4,4.4 v 19.8 c 0,2.2 1.5,4 3.8,4.4 0.1,0 0.3,0 0.3,0 0.1,0 0.2,0 0.3,0 h 22.6 c 0.2,0 0.4,0 0.7,-0.1 2.1,-0.3 3.8,-2.1 3.8,-4.4 v -19.8 c 0,-2.4 -2,-4.4 -4.4,-4.4 z"
-           id="path143"
-           style="fill:#edefef" />
-        <g
-           id="g148">
-          <path
-             class="st21"
-             d="m 47.2,-43.7 v 0 l -0.6,-2 H 29.8 c -0.5,0 -0.9,0.2 -1.2,0.4 -0.2,0.2 -0.3,0.3 -0.3,0.5 v 1.2 c 0,0 0,3.4 -2.5,3.8 h 17.6 c 3,-0.3 4.4,-2 3.8,-3.9 z"
-             id="path144"
-             style="fill:#27afd9" />
-          <path
-             class="st2"
-             d="M 43.5,-39.9 H 5.6 c -2.6,-0.3 -3.9,-1.5 -3.9,-3.2 -0.1,2.1 1.2,4.4 3.9,4.6 h 37.9 c 2.6,-0.3 3.9,-2.5 3.9,-4.6 0,1.7 -1.3,3.1 -3.9,3.2 z"
-             id="path145"
-             style="fill:#2f3536" />
-          <path
-             class="st20"
-             d="m 40.1,-41.4 v 0 c 0.1,0.3 0.3,0.6 0.7,0.6 H 42 c 0.5,0 0.9,-0.5 0.7,-0.9 v 0 C 42.6,-42 42.4,-42.2 42,-42.2 h -1.3 c -0.4,-0.1 -0.7,0.4 -0.6,0.8 z"
-             id="path146"
-             style="fill:#edefef" />
-          <path
-             class="st20"
-             d="m 37.1,-42.3 h 1.3 c 0.3,0 0.6,0.3 0.7,0.6 v 0 c 0.1,0.4 -0.3,0.9 -0.7,0.9 h -1.3 c -0.3,0 -0.7,-0.3 -0.7,-0.6 v 0 c 0,-0.5 0.3,-0.9 0.7,-0.9 z"
-             id="path147"
-             style="fill:#edefef" />
-          <path
-             class="st20"
-             d="m 35.6,-41.7 v 0 c 0.1,0.4 -0.3,0.9 -0.7,0.9 h -1.3 c -0.3,0 -0.7,-0.3 -0.7,-0.7 v 0 c -0.1,-0.4 0.3,-0.8 0.7,-0.8 h 1.3 c 0.3,0 0.6,0.3 0.7,0.6 z"
-             id="path148"
-             style="fill:#edefef" />
-        </g>
-        <g
-           id="g150">
-          <path
-             class="st20"
-             d="m 46.3,-45.4 -0.2,-0.4 c -0.8,-2.1 -3.9,-3.7 -7.7,-3.7 H 10.8 c -4.1,0 -6.9,1.5 -7.9,4.2 0,0.1 -0.1,0.2 -0.1,0.3 l -0.5,1.6 v 0 c -0.6,1.9 0.7,3.6 3.7,3.9 h 19.9 c 2.5,-0.3 2.5,-3.7 2.5,-3.7 v -1.2 c 0,-0.5 0.7,-0.9 1.5,-0.9 z"
-             id="path149"
-             style="fill:#edefef" />
-          <path
-             class="st2"
-             d="M 26,-38.8 H 6 c -1.9,-0.2 -3.3,-0.9 -4.1,-2 -0.6,-0.9 -0.7,-2 -0.4,-3 L 2,-45.5 c 0,-0.1 0.1,-0.2 0.1,-0.3 1.2,-3.1 4.3,-4.7 8.8,-4.7 h 27.6 c 4.1,0 7.6,1.8 8.6,4.3 l 0.5,1.6 H 29.8 c -0.3,0 -0.5,0.1 -0.6,0.1 v 1 c 0,1.5 -0.6,4.3 -3.2,4.7 z m -15.2,-9.9 c -3.7,0 -6.1,1.3 -7,3.6 0,0.1 -0.1,0.1 -0.1,0.2 l -0.5,1.6 c -0.2,0.5 -0.1,1 0.2,1.5 0.4,0.7 1.4,1.1 2.7,1.2 h 19.8 c 1.6,-0.3 1.6,-2.7 1.6,-2.8 v -1.2 c 0,-1 1,-1.8 2.4,-1.8 H 45 c -0.9,-1.3 -3.3,-2.4 -6.4,-2.4 H 10.8 Z"
-             id="path150"
-             style="fill:#2f3536" />
-        </g>
-        <g
-           class="st32"
-           id="g154"
-           style="opacity:0.3">
-          <path
-             class="st33"
-             d="m 8.5,-79.1 3.9,-4.3 c -2.1,0.3 -3.9,2.1 -3.9,4.3 z"
-             id="path151"
-             style="fill:#bbd8e8" />
-          <path
-             class="st33"
-             d="m 36.8,-83.2 -25.5,28.1 c 0.3,0.2 0.7,0.3 1,0.3 0.1,0 0.3,0 0.3,0 0.1,0 0.2,0 0.3,0 h 3.6 l 23.1,-25.3 c -0.3,-1.6 -1.4,-2.7 -2.8,-3.1 z"
-             id="path152"
-             style="fill:#bbd8e8" />
-          <polygon
-             class="st33"
-             points="20.7,-54.8 24.7,-54.8 39.9,-71.5 39.9,-76 "
-             id="polygon152"
-             style="fill:#bbd8e8" />
-          <polygon
-             class="st33"
-             points="30.1,-54.8 33.1,-54.8 39.9,-62.3 39.9,-65.5 "
-             id="polygon153"
-             style="fill:#bbd8e8" />
-          <path
-             class="st33"
-             d="M 29.8,-83.4 8.5,-60 v 0.8 c 0,0.4 0.1,0.9 0.2,1.3 l 23.2,-25.5 z"
-             id="path153"
-             style="fill:#bbd8e8" />
-          <polygon
-             class="st33"
-             points="8.5,-69.5 8.5,-67.8 22.7,-83.4 21.2,-83.4 "
-             id="polygon154"
-             style="fill:#bbd8e8" />
-          <path
-             class="st33"
-             d="m 12.9,-83.4 c -0.2,0 -0.3,0 -0.5,0.1 L 8.5,-79 v 0.1 1.1 l 5.1,-5.6 z"
-             id="path154"
-             style="fill:#bbd8e8" />
-        </g>
-      </g>
-    </g>
-  </g>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_2691_1010" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="20" y="33" width="24" height="26">
+<path d="M20.4803 33.3112H43.5203V58.88H20.4803V33.3112Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_2691_1010)">
+<mask id="mask1_2691_1010" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="20" y="25" width="24" height="35">
+<path d="M20.0649 25.8125H43.9349V59.282H20.0649V25.8125ZM38.1399 46.6973C38.1399 43.4039 35.3949 40.7302 32.0074 40.7302C28.6224 40.7302 25.8774 43.4039 25.8774 46.6973C25.8774 49.9933 28.6224 52.6644 32.0074 52.6644C35.3949 52.6644 38.1399 49.9933 38.1399 46.6973Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_2691_1010)">
+<path d="M22.1197 33.8207H41.8797C42.7872 33.8207 43.5197 34.5659 43.5197 35.4879V57.2127C43.5197 58.1372 42.7872 58.8799 41.8797 58.8799H22.1197C21.2122 58.8799 20.4797 58.1372 20.4797 57.2127V35.4879C20.4797 34.5659 21.2122 33.8207 22.1197 33.8207Z" fill="url(#paint0_linear_2691_1010)"/>
+</g>
+</g>
+<mask id="mask2_2691_1010" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="20" y="32" width="24" height="26">
+<path d="M20.4803 32.1754H43.5203V57.7442H20.4803V32.1754Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_2691_1010)">
+<mask id="mask3_2691_1010" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="20" y="25" width="24" height="34">
+<path d="M20.0649 25.3326H43.9349V58.802H20.0649V25.3326ZM38.1399 46.2174C38.1399 42.9239 35.3949 40.2503 32.0074 40.2503C28.6224 40.2503 25.8774 42.9239 25.8774 46.2174C25.8774 49.5134 28.6224 52.1845 32.0074 52.1845C35.3949 52.1845 38.1399 49.5134 38.1399 46.2174Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_2691_1010)">
+<path d="M22.1197 32.3648H41.8797C42.7872 32.3648 43.5197 33.1074 43.5197 34.032V55.7542C43.5197 56.6787 42.7872 57.4214 41.8797 57.4214H22.1197C21.2122 57.4214 20.4797 56.6787 20.4797 55.7542V34.032C20.4797 33.1074 21.2122 32.3648 22.1197 32.3648Z" fill="#414141"/>
+</g>
+</g>
+<path d="M58.8799 12.5352V47.7999C58.8799 50.3711 56.8474 52.4583 54.3424 52.4583H9.6574C7.1524 52.4583 5.1199 50.3711 5.1199 47.7999V12.5352C5.1199 9.96395 7.1524 7.87675 9.6574 7.87675H54.3424C56.8474 7.87675 58.8799 9.96395 58.8799 12.5352Z" fill="url(#paint1_linear_2691_1010)"/>
+<path d="M58.88 9.77854V43.1046C58.88 45.6784 56.8475 47.763 54.3425 47.763H9.6575C7.15249 47.763 5.12 45.6784 5.12 43.1046V9.77854C5.12 7.20732 7.15249 5.12012 9.6575 5.12012H54.3425C56.8475 5.12012 58.88 7.20732 58.88 9.77854Z" fill="url(#paint2_linear_2691_1010)"/>
+<path d="M10.8448 7.57816H52.9974C54.8324 7.57816 56.3199 9.09176 56.3199 10.9554V41.8986C56.3199 43.7622 54.8324 45.2758 52.9974 45.2758H10.8448C9.00744 45.2758 7.51993 43.7622 7.51993 41.8986V10.9554C7.51993 9.09176 9.00744 7.57816 10.8448 7.57816Z" fill="black"/>
+<mask id="mask4_2691_1010" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="7" y="7" width="50" height="39">
+<path d="M10.8448 7.57816H52.9974C54.8324 7.57816 56.3199 9.09176 56.3199 10.9554V41.8986C56.3199 43.7622 54.8324 45.2758 52.9974 45.2758H10.8448C9.00744 45.2758 7.51993 43.7622 7.51993 41.8986V10.9554C7.51993 9.09176 9.00744 7.57816 10.8448 7.57816Z" fill="black"/>
+</mask>
+<g mask="url(#mask4_2691_1010)">
+<ellipse cx="67.52" cy="77.12" rx="58.56" ry="61.44" fill="#625F5F" fill-opacity="0.35"/>
+<ellipse cx="76.16" cy="83.3601" rx="58.56" ry="61.44" fill="#625F5F" fill-opacity="0.35"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_2691_1010" x1="20.5366" y1="58.4625" x2="43.3667" y2="58.4625" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9A9996"/>
+<stop offset="0.0414257" stop-color="#C0BFBC"/>
+<stop offset="0.0815191" stop-color="#9A9996"/>
+<stop offset="0.899024" stop-color="#77767B"/>
+<stop offset="0.952865" stop-color="#C0BFBC"/>
+<stop offset="1" stop-color="#77767B"/>
+</linearGradient>
+<linearGradient id="paint1_linear_2691_1010" x1="5.25266" y1="51.7158" x2="58.5229" y2="51.7158" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9A9996"/>
+<stop offset="0.0414257" stop-color="#C0BFBC"/>
+<stop offset="0.0815191" stop-color="#9A9996"/>
+<stop offset="0.899024" stop-color="#77767B"/>
+<stop offset="0.952865" stop-color="#C0BFBC"/>
+<stop offset="1" stop-color="#77767B"/>
+</linearGradient>
+<linearGradient id="paint2_linear_2691_1010" x1="76.4" y1="4.87292" x2="-8.28401" y2="44.6851" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B8B8B8"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+</defs>
 </svg>
