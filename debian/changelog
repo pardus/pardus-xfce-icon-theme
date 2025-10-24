@@ -1,3 +1,12 @@
+pardus-xfce-icon-theme (4.0.0~beta1) unstable; urgency=medium
+
+  [ Yusuf Düzgün ]
+  * fix 16x16 document-open-recent icon and major update
+  * added new updates and fixed some inheritence problem
+  * update pardus apps icons size
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Fri, 24 Oct 2025 20:01:25 +0300
+
 pardus-xfce-icon-theme (4.0.0~alpha2) unstable; urgency=medium
 
   [ Yusuf Düzgün ]
