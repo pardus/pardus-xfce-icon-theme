@@ -3,7 +3,7 @@ Name=Pardus Xfce Brown Dark
 Name[tr]=Pardus Xfce Kahverengi Karanlık
 Comment=Dark icon theme for Pardus Xfce.
 Comment[tr]=Pardus Xfce için karanlık ikon teması.
-Inherits=pardus-xfce-brown
+Inherits=pardus-xfce-brown,pardus-xfce-dark
 
 # List all directories
 Directories=

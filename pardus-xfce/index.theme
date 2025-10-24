@@ -1,12 +1,12 @@
 [Icon Theme]
-Name=Facia
-Name[tr]=Facia
+Name=Pardus Xfce
+Name[tr]=Pardus Xfce
 Comment=Icon theme for Pardus Xfce.
 Comment[tr]=Pardus Xfce için simge teması.
 Inherits=Adwaita,Tango
 
 # List all directories
-Directories=statusbar,statusbar/battery,statusbar/nm,actions,categories,places,places/16x16,places/symbolic,apps,mimes/office,mimes/audio,mimes/text,mimes/packages,mimes,devices
+Directories=statusbar,statusbar/battery,statusbar/nm,actions,categories,places,places/16x16,places/symbolic,apps,mimes/office,mimes/audio,mimes/text,mimes/packages,mimes,devices,emblems
 
 [statusbar]
 Context=Status
@@ -117,6 +117,13 @@ Type=Scalable
 Context=Actions
 Size=16
 MinSize=8
+MaxSize=512
+Type=Scalable
+
+[emblems]
+Context=Mimetypes
+Size=64
+MinSize=16
 MaxSize=512
 Type=Scalable
 

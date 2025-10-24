@@ -6,11 +6,4 @@ Comment[tr]=Pardus Xfce için simge teması.
 Inherits=pardus-xfce
 
 # List all directories
-Directories=places
-
-[places]
-Context=Places
-Size=200
-MinSize=16
-MaxSize=512
-Type=Scalable
+Directories=
