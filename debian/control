@@ -11,6 +11,3 @@ Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, librsvg2-common
 Description: Pardus Xfce Icon Theme.
  Pardus Xfce Icon Theme for Pardus Xfce desktop environment.
-Provides: pardus-icon-theme
-Conflicts: pardus-icon-theme
-Replaces: pardus-icon-theme
