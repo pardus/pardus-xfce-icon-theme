@@ -1,3 +1,9 @@
+pardus-xfce-icon-theme (4.0.2) unstable; urgency=medium
+
+  * Rm unnecessary conflicts
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Mon, 24 Nov 2025 23:08:37 +0300
+
 pardus-xfce-icon-theme (4.0.1) unstable; urgency=medium
 
   [ Yusuf Düzgün ]
